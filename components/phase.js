@@ -29,6 +29,7 @@ const Phase = () => {
     return (
         <>
             {state.phrase}
+            {state.phraseAuthor}
         </>
     )
 
